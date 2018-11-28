@@ -1,2 +1,2 @@
 # qiupaiproject
-this is a project  of test
+this is a test project
